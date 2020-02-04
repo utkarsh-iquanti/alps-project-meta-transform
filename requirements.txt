@@ -1,0 +1,11 @@
+Django==3.0.2
+djangorestframework==3.11.0
+requests==2.22.0
+boto==2.49.0
+pymongo==3.10.1
+
+-i http://pypi.smallbizvoices.com:8080/simple/ --trusted-host pypi.smallbizvoices.com
+iqdcutils.serp.dataforseo==1.2.1
+iqstorage.dc==1.7.0
+
+
